@@ -1,0 +1,123 @@
+title: Start
+tags: 
+speaker: Agent
+colorID: 1 
+position:-401.26167805748673,83.90479533118523 
+---
+Nou, zoals eerder omschreven raakt de hartspier verdikt. Zal ik je eerst vertellen hoe het hart onder normale omstandigheden werkt?
+
+[[Nee, dat weet ik wel.|SlaNormaalHartOver]]
+[[Ja, graag.|HartBijHCM2]]
+===
+title: SlaNormaalHartOver
+tags: 
+speaker: Agent
+colorID: 1 
+position:-139.0509338306631,51.41581828040397 
+---
+Ok, dan ga ik gelijk door naar het hart bij HCM.  
+
+===
+title: BespreekNormaalHart
+tags: 
+speaker: Agent
+colorID: 1 
+position:151.6066792926449,92.61039835852898 
+---
+Onder normale omstandigheden werkt een hart als een pomp. Het pompt bloed door je lichaam en bestaat uit spierweefsel of 'myocard'.  
+
+===
+title: HartBijHCM
+tags: 
+speaker: Agent
+colorID: 1 
+position:477.7889506190778,986.4936503116547 
+---
+Zoals je weet is het hart een krachtige pomp en bestaat het uit spierweefsel.  
+
+[[Kan je toch uitleggen hoe een normaal hart werkt?|BrugNaarNormaalHart]]
+[[Ja, ga door.|HartBijHCM2]]
+===
+title: HartBijHCM2
+tags: 
+speaker: Agent
+colorID: 1 
+position:-86.0834859188148,345.3709686351573 
+---
+Bij HCM is een deel van de hartspier verdikt. Hypertrofie betekent dan ook letterlijk 'verdikt'. Er is dus sprake van een hartspierziekte, ofwel 'cardiomyopathie'.  
+
+[[Waarom is een verdikte spier een probleem?|VerdikteSpier]]
+[[Waar zit die verdikking dan?|HartBijHCM3]]
+===
+title: HartBijHCM3
+tags: 
+speaker: Agent
+colorID: 1 
+position:-108.5425109791006,655.6654113841817 
+---
+Deze verdikking zit vaak in de linker hartkamer en in de meeste gevallen is de wand tussen de rechter hartkamer en linker hartkamer verdikt.  
+
+===
+title: VerdikteSpier
+tags: 
+speaker: Agent
+colorID: 1 
+position:226.84830730853093,430.4098999095713 
+---
+Met zo'n verdikte hartspier kan het hart goed samentrekken om het bloed weg te pompen. Het probleem is alleen dat het ontspannen van de spier minder goed gaat.  
+
+[[BespreekNormaalHart2]]
+===
+title: VerdikteSpier2
+tags: 
+speaker: Agent
+colorID: 1 
+position:532.747705078125,141.28721823307455 
+---
+Daardoor kan er minder bloed het hart instromen en wordt er dus ook minder bloed rondgepompt. Je lichaam krijgt dus minder zuurstofrijk bloed.  
+
+[[Kan je toch uitleggen hoe een normaal hart werkt?|BespreekNormaalHart]]
+[[Waar zit die verdikking dan?|HartBijHCM3]]
+===
+title: BespreekNormaalHart2
+tags: 
+speaker: Agent
+colorID: 1 
+position:302.2270202708994,623.9149587115912 
+---
+Je hart heeft vier ruimtes. Twee boezems waarin het bloed binnenstroomt en twee kamers waaruit het bloed het lichaam wordt ingepompt. 
+
+[[Heb je daar een plaatje bij?|BespreekNormaalHartPlaatje]]
+[[Hoe wordt het bloed rondgepompt?|BespreekNormaalHartVolgorde]]
+===
+title: BespreekNormaalHartPlaatje
+tags: 
+speaker: Agent
+colorID: 1 
+position:543.6698506793637,641.99280600163 
+---
+Natuurlijk, dat ziet er dan zo uit. Plaatjelink nog invoegen; plaatje van hart met pijltje naar hartspier. 
+
+[[En hoe wordt het bloed rondgepompt?|BespreekNormaalHartVolgorde]]
+[[Wat is er anders bij HCM?|HartBijHCM]]
+===
+title: BespreekNormaalHartVolgorde
+tags: 
+speaker: Agent
+colorID: 1 
+position:866.0339457362653,764.1873555621761 
+---
+De rechterkant van het hart ontvangt zuurstofarm bloed en pompt dat naar de longen om zuurstof op te nemen en kooldioxide (een afvalproduct) af te geven. De linkerkant van het hart ontvangt zuurstofrijk bloed van de longen en pompt het naar de rest van het lichaam via de slagaders. 
+
+[[Heb je daar toch een plaatje bij?|BespreekNormaalHartPlaatje]]
+[[En wat is er dan anders bij HCM?|HartBijHCM]]
+===
+title: BrugNaarNormaalHart
+tags: 
+speaker: Agent
+colorID: 1 
+position:38.81940714759147,981.2254374354841 
+---
+Natuurlijk!!!
+
+===
