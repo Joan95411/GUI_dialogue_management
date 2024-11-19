@@ -3,8 +3,8 @@ from flask import Flask, render_template, request, jsonify
 import traceback
 import openai
 import ConvertoWool as cw
-openai.organization = "org-3eJpiIMEIw3d5KuNFtqcBhKP"
-openai.api_key = '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'
+openai.organization = ""
+openai.api_key = ''
 
 # Set up OpenAI API credentials
 
